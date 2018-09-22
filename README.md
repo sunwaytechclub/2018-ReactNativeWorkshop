@@ -38,9 +38,9 @@ TA: Tony, JH, Eric, Jiayi, Kapoh, Derek
 
 ## Slides 
 
-[introduction]()
+[introduction](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-lecture.pdf)
 
-[practical]()
+[practical](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-practical.pdf)
 
 ## Work
 
