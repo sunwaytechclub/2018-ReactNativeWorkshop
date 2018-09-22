@@ -11,14 +11,14 @@ venue: Graduate Center Hall 1
 | Time |             Agenda              |
 |:----:|:-------------------------------:|
 | 0830 |       Registration start        |
-| 0905 | Opening & Committee recruitment |
-| 0907 |          Ice Breaking           |
-| 0912 |       Introduction React        |
-| 0925 |      Getting Expo working       |
-| 0940 |          View -> Alert          |
-| 1040 |           Short break           |
-| 1045 |      Text Input -> Boolean      |
-| 1115 |         Countdown Timer         |
+| 0915 | Opening & Committee recruitment |
+| 0917 |          Ice Breaking           |
+| 0922 |       Introduction React        |
+| 0935 |      Getting Expo working       |
+| 0950 |          View -> Alert          |
+| 1050 |           Short break           |
+| 1055 |      Text Input -> Boolean      |
+| 1125 |         Countdown Timer         |
 | 1200 |              Lunch              |
 | 1300 |            FlatList             |
 | 1310 |      Asynchronous Storage       |
@@ -26,13 +26,15 @@ venue: Graduate Center Hall 1
 | 1400 |          To Do List p1          |
 | 1500 |               Tea               |
 | 1530 |          To Do List p2          |
-| 1630 |             Closing             |
-| 1640 |               End               |
+| 1650 |              Q & A              |
+| 1700 |             Closing             |
+| 1705 |            Feedback             |
+| 1715 |               End               |
 
 ## People 
 
 Lead: Lee Wei Fan
-TA: Tony, JH, Eric, Jiayi
+TA: Tony, JH, Eric, Jiayi, Kapoh, Derek
 
 ## Slides 
 
