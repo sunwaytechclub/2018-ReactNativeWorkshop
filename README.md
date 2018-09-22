@@ -40,12 +40,12 @@ TA: Tony, JH, Eric, Jiayi, Kapoh, Derek
 
 ## Slides 
 
-[introduction](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-intro.pdf)
+[introduction](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-lecture.pdf)
 
 [practical](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-practical.pdf)
 
 ## Work
 
-[Countdown Stopwatch]()
+[Countdown Stopwatch](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/archive/countdown.zip)
 
-[To Do List]()
+[To Do List](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/archive/todo.zip)
