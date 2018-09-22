@@ -20,12 +20,14 @@ venue: Graduate Center Hall 1
 | 1055 |      Text Input -> Boolean      |
 | 1125 |         Countdown Timer         |
 | 1200 |              Lunch              |
-| 1300 |            FlatList             |
-| 1310 |      Asynchronous Storage       |
-| 1340 |           Navigation            |
-| 1400 |          To Do List p1          |
+| 1300 |         Countdown Timer         |
+| 1330 |              Props              |
+| 1340 |            FlatList             |
+| 1350 |      Asynchronous Storage       |
+| 1420 |           Navigation            |
+| 1430 |          To Do List p1          |
 | 1500 |               Tea               |
-| 1530 |          To Do List p2          |
+| 1520 |          To Do List p2          |
 | 1650 |              Q & A              |
 | 1700 |             Closing             |
 | 1705 |            Feedback             |
