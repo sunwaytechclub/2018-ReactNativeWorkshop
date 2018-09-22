@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "ws-countdown",
+    "name": "rw-new-todo",
     "description": "No description",
-    "slug": "snack-ByEAMNlYQ",
+    "slug": "snack-rkecy9mKX",
     "privacy": "unlisted",
-    "sdkVersion": "29.0.0",
+    "sdkVersion": "30.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
