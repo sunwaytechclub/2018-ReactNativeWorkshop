@@ -46,6 +46,6 @@ TA: Tony, JH, Eric, Jiayi, Kapoh, Derek
 
 ## Work
 
-[Countdown Stopwatch](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/archive/countdown.zip)
+[Countdown Stopwatch](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/tree/countdown)
 
-[To Do List](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/archive/todo.zip)
+[To Do List](https://github.com/sunwaytechclub/2018-ReactNativeWorkshop/tree/todo)
