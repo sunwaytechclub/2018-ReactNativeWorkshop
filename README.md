@@ -33,11 +33,6 @@ venue: Graduate Center Hall 1
 | 1705 |            Feedback             |
 | 1715 |               End               |
 
-## People 
-
-Lead: Lee Wei Fan
-TA: Tony, JH, Eric, Jiayi, Kapoh, Derek
-
 ## Slides 
 
 [introduction](https://raw.githubusercontent.com/sunwaytechclub/2018-ReactNativeWorkshop/master/RNW-lecture.pdf)
